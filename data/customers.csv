@@ -1,0 +1,101 @@
+CustomerID,CustomerName,City,Region,CustomerSegment
+C001,Isha Shah,Bhubaneswar,East,Consumer
+C002,Nisha Patil,Bhubaneswar,East,Consumer
+C003,Maya Joshi,Lucknow,North,Consumer
+C004,Aarav Joshi,Nagpur,West,Consumer
+C005,Aditi Shah,Jaipur,North,Consumer
+C006,Maya Verma,Nagpur,West,Consumer
+C007,Aditya Shah,Nashik,West,Small Business
+C008,Arjun Kapoor,Nashik,West,Consumer
+C009,Arjun Mehta,Mumbai,West,Consumer
+C010,Diya Bose,Lucknow,North,Consumer
+C011,Meera Pawar,Jaipur,North,Consumer
+C012,Neel Joshi,Jaipur,North,Consumer
+C013,Aditi Bose,Lucknow,North,Consumer
+C014,Rohan Kulkarni,Kolkata,East,Consumer
+C015,Tara Joshi,Nagpur,West,Corporate
+C016,Neel Kapoor,Delhi,North,Small Business
+C017,Diya Deshmukh,Hyderabad,South,Consumer
+C018,Aditya Joshi,Lucknow,North,Small Business
+C019,Maya Reddy,Nashik,West,Consumer
+C020,Aditya Rao,Nagpur,West,Small Business
+C021,Meera Reddy,Pune,West,Small Business
+C022,Neel Kapoor,Mumbai,West,Consumer
+C023,Dev Iyer,Nagpur,West,Small Business
+C024,Neel Pawar,Nashik,West,Consumer
+C025,Nisha Rao,Jaipur,North,Consumer
+C026,Dev Verma,Lucknow,North,Consumer
+C027,Nisha Patil,Jaipur,North,Consumer
+C028,Meera Mehta,Nashik,West,Small Business
+C029,Riya Khan,Mumbai,West,Consumer
+C030,Aditi Pawar,Jaipur,North,Consumer
+C031,Maya Shah,Kolkata,East,Small Business
+C032,Maya Kapoor,Kolkata,East,Consumer
+C033,Tara Verma,Nashik,West,Consumer
+C034,Aditya Mishra,Nashik,West,Consumer
+C035,Isha Sethi,Kolkata,East,Consumer
+C036,Vihaan Patil,Hyderabad,South,Small Business
+C037,Maya Mishra,Pune,West,Consumer
+C038,Pooja Shah,Mumbai,West,Corporate
+C039,Tara Reddy,Pune,West,Consumer
+C040,Dev Joshi,Mumbai,West,Small Business
+C041,Rohan Rao,Nashik,West,Consumer
+C042,Pooja Rao,Nashik,West,Consumer
+C043,Aditi Verma,Nagpur,West,Corporate
+C044,Vihaan Sethi,Chennai,South,Corporate
+C045,Diya Pawar,Jaipur,North,Consumer
+C046,Nisha Reddy,Mumbai,West,Consumer
+C047,Dev Rao,Nagpur,West,Consumer
+C048,Aarav Joshi,Bhubaneswar,East,Small Business
+C049,Nisha Joshi,Pune,West,Corporate
+C050,Rohan Mishra,Nagpur,West,Consumer
+C051,Pooja Nair,Jaipur,North,Consumer
+C052,Dev Singh,Delhi,North,Consumer
+C053,Pooja Verma,Nagpur,West,Consumer
+C054,Riya Bose,Chennai,South,Consumer
+C055,Meera Mehta,Pune,West,Consumer
+C056,Arjun Mehta,Nagpur,West,Consumer
+C057,Maya Pawar,Nashik,West,Consumer
+C058,Aditya Pawar,Nagpur,West,Corporate
+C059,Rohan Pawar,Jaipur,North,Consumer
+C060,Maya Shah,Mumbai,West,Corporate
+C061,Nisha Deshmukh,Chennai,South,Consumer
+C062,Vihaan Malhotra,Pune,West,Consumer
+C063,Aarav Malhotra,Bengaluru,South,Corporate
+C064,Kunal Sethi,Chennai,South,Small Business
+C065,Maya Bhat,Nashik,West,Consumer
+C066,Vihaan Kulkarni,Lucknow,North,Small Business
+C067,Meera Iyer,Pune,West,Consumer
+C068,Pooja Mishra,Jaipur,North,Consumer
+C069,Sahil Joshi,Nashik,West,Consumer
+C070,Rohan Reddy,Chennai,South,Consumer
+C071,Dev Reddy,Lucknow,North,Consumer
+C072,Aditi Joshi,Chennai,South,Small Business
+C073,Dev Mishra,Hyderabad,South,Corporate
+C074,Vihaan Iyer,Nagpur,West,Consumer
+C075,Kabir Sethi,Delhi,North,Consumer
+C076,Rohan Shah,Delhi,North,Small Business
+C077,Dev Mehta,Mumbai,West,Consumer
+C078,Sahil Kapoor,Nashik,West,Corporate
+C079,Rohan Reddy,Hyderabad,South,Consumer
+C080,Kunal Rao,Bhubaneswar,East,Consumer
+C081,Sahil Shah,Kolkata,East,Small Business
+C082,Tara Mehta,Nashik,West,Consumer
+C083,Isha Rao,Nashik,West,Consumer
+C084,Aditi Nair,Bhubaneswar,East,Consumer
+C085,Aditya Mishra,Delhi,North,Consumer
+C086,Meera Joshi,Kolkata,East,Consumer
+C087,Aditya Kulkarni,Pune,West,Consumer
+C088,Kabir Kapoor,Nashik,West,Small Business
+C089,Maya Verma,Jaipur,North,Consumer
+C090,Rohan Patil,Jaipur,North,Consumer
+C091,Diya Singh,Jaipur,North,Consumer
+C092,Kabir Kulkarni,Bengaluru,South,Consumer
+C093,Meera Bose,Nagpur,West,Small Business
+C094,Isha Bose,Jaipur,North,Corporate
+C095,Riya Khan,Bhubaneswar,East,Consumer
+C096,Nisha Deshmukh,Nashik,West,Corporate
+C097,Aarav Deshmukh,Bhubaneswar,East,Corporate
+C098,Riya Reddy,Bengaluru,South,Consumer
+C099,Isha Malhotra,Pune,West,Corporate
+C100,Nisha Nair,Delhi,North,Consumer

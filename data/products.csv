@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,UnitPrice,CostPerUnit
+P001,Wireless Earbuds,Electronics,7421,5439.07
+P002,Smart Speaker,Electronics,2564,1541.66
+P003,Power Bank,Electronics,6106,3629.53
+P004,Bluetooth Keyboard,Electronics,3389,2081.11
+P005,Web Camera,Electronics,1268,979.38
+P006,Desk Lamp,Home Office,2986,1883.46
+P007,Office Chair,Home Office,4873,3128.11
+P008,Laptop Stand,Home Office,7611,5124.71
+P009,Desk Organizer,Home Office,8394,4669.99
+P010,Monitor Riser,Home Office,7884,6095.85
+P011,Mixer Grinder,Kitchen,2162,1477.8
+P012,Electric Kettle,Kitchen,2874,1605.99
+P013,Storage Set,Kitchen,5587,3631.27
+P014,Air Fryer,Kitchen,6668,4873.5
+P015,Coffee Maker,Kitchen,4274,2946.62
+P016,Trimmer,Personal Care,4889,2818.99
+P017,Hair Dryer,Personal Care,8068,5507.34
+P018,Skin Care Kit,Personal Care,2786,1560.74
+P019,Electric Toothbrush,Personal Care,4272,2351.26
+P020,Grooming Set,Personal Care,8282,6091.39
